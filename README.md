@@ -30,6 +30,7 @@ Sunday and Monday:
 - Worked on task2.
 - Worked on helical trajectory code in mavros python.
 - Same code worked in mavros but not in dronekit.
+- Completed the task2
 
 Tuesday:
 - Couldn't work on the task3, due to some unavoidable situations.
