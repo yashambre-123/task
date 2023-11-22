@@ -39,4 +39,3 @@ Wednesday:
 
 Task1 youtube video: https://youtu.be/zQm7lfQaEe0?si=s73Zmwa72Us4VghH
 [https://youtu.be/zQm7lfQaEe0?si=s73Zmwa72Us4VghH](Task1 youtube video)
-Task2 youtube video: https://youtu.be/Mi4Nh4uRUyM?si=liefssOqN2AcrbGO
