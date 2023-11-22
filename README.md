@@ -4,11 +4,11 @@ added task1 and task2
 Day Wise work distribution:
 
 Wednesday:
--> Got to know about various drone firmwares such as PX4 and Ardupilot, selected Ardupilot.
--> Researched on supporting libraries such as dronekit and mavros, used both of them.
--> Installed the ardupilot, dronekit, mavros, mavlink and SITL
--> Found out that Gazebo was somehow removed from my system
--> Couldn't install gazebo11 due to an error in the gazebo.deb file
+- Got to know about various drone firmwares such as PX4 and Ardupilot, selected Ardupilot.
+- Researched on supporting libraries such as dronekit and mavros, used both of them.
+- Installed the ardupilot, dronekit, mavros, mavlink and SITL
+- Found out that Gazebo was somehow removed from my system
+- Couldn't install gazebo11 due to an error in the gazebo.deb file
 
 Thursday:
 -> Trying to sort out the error of Gazebo installation
