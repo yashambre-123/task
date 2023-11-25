@@ -38,7 +38,7 @@ Tuesday:
 Wednesday:
 - Started task3, trying to bring in camera plugin in gz sim since the drone isn't equipped with camera.
 - Installed Gazebo11 since the classic Gazebo plugins don't work in gz_sim.
-- Installed fpv camera and aruco marker in the world file.
+- Installed fpv camera plugin and aruco marker in the world file.
 
 Thursday and Friday:
 - Implemented the code, took help from another github repo for helper functions.
