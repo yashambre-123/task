@@ -37,7 +37,16 @@ Tuesday:
 
 Wednesday:
 - Started task3, trying to bring in camera plugin in gz sim since the drone isn't equipped with camera.
+- Installed Gazebo11 since the classic Gazebo plugins don't work in gz_sim.
+- Installed fpv camera and aruco marker in the world file.
+
+Thursday and Friday:
+- Implemented the code, took help from another github repo for helper functions.
+- Currently facing error, not able to connect vehicle to ardupilot gazebo through code.
+- Main detection and landing code seems correct.
 
 Task1 youtube video: https://youtu.be/zQm7lfQaEe0?si=s73Zmwa72Us4VghH
 
 Task2 youtube video: https://youtu.be/Mi4Nh4uRUyM?si=liefssOqN2AcrbGO
+
+Task3 youtube video: https://youtu.be/-9ETwwNTqE8?si=bld0U5T51KrbYbvn
