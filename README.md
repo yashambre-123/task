@@ -45,8 +45,13 @@ Thursday and Friday:
 - Currently facing error, not able to connect vehicle to ardupilot gazebo through code.
 - Main detection and landing code seems correct.
 
+Monday - Wednesday
+- Solved the above error by increasing the timeout parameter.
+- Reframed the code, and removed the error causing lines.
+- Code works fine, not suitable for fast movement of aruco marker.
+
 Task1 youtube video: https://youtu.be/zQm7lfQaEe0?si=s73Zmwa72Us4VghH
 
 Task2 youtube video: https://youtu.be/Mi4Nh4uRUyM?si=liefssOqN2AcrbGO
 
-Task3 youtube video: https://youtu.be/-9ETwwNTqE8?si=bld0U5T51KrbYbvn
+Task3(working) youtube video: https://youtu.be/6vbPx5Ymrvs?si=ChdRBVP80BvzM6h-
